@@ -110,7 +110,9 @@ The project uses SQLite to store BMI records, including:
 
 ## Screenshot
 
-![BMI Calculator](https://github.com/PunitPatil1029/BMI_Calculator/raw/main/screenshots/bmi_calculator.png)
+## Screenshot
+
+![BMI Calculator](screenshots/bmi_calculator.png)
 
 ## Author
 

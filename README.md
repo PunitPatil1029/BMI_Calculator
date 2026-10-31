@@ -42,7 +42,7 @@ BMI_Calculator/
 ├── visualization.py
 ├── README.md
 ├── .gitignore
-└── screenshot/
+└── screenshots/
     └── bmi_calculator.png
 ```
 
@@ -108,7 +108,7 @@ The project uses SQLite to store BMI records, including:
 
 ## Screenshot
 
-![BMI Calculator](screenshot/bmi_calculator.png)
+![BMI Calculator](screenshots/bmi_calculator.png)
 
 ## Author
 

@@ -118,4 +118,51 @@ The project uses SQLite to store BMI records, including:
 
 **Punit Patil**
 
+GitHub: https://github.com/PunitPatil1029# BMI Calculator
+
+## 📌 Project Description
+The BMI Calculator is a Python-based application that calculates a person's Body Mass Index (BMI) using their weight and height. It helps users understand their BMI value and identify their corresponding BMI category.
+
+This project was developed as part of the **OASIS INFOBYTE Python Programming Internship**.
+
+## ✨ Features
+- Calculate Body Mass Index (BMI).
+- Accept weight and height as user inputs.
+- Display the calculated BMI value.
+- Classify BMI into health categories.
+- Simple and beginner-friendly interface.
+
+## 🛠️ Technologies Used
+- Python 3
+- Python fundamentals
+- Conditional statements
+- Mathematical operations
+
+## 📥 Installation and Execution
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/PunitPatil1029/BMI_Calculator.git
+```
+
+### 2. Open the project folder
+```bash
+cd BMI_Calculator
+```
+
+### 3. Run the application
+```bash
+python main.py
+```
+
+## 📸 Screenshot
+
+![BMI Calculator](screenshots/bmi_calculator.png)
+
+## 👨‍💻 Developer
+**Punit Patil**
+
 GitHub: https://github.com/PunitPatil1029
+
+## 📄 License
+This project is created for educational and internship purposes.
